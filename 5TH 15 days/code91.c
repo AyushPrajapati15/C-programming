@@ -15,6 +15,7 @@ int main() {
         scanf("%d", &arr1[i]);
     }
 
+
     printf("Enter the size of second array: ");
     scanf("%d", &size2);
 
